@@ -22,7 +22,7 @@ checkuser --config-port 5000 --start --daemon
 
 ### Ou
 ```
-bash <(curl -sL https://raw.githubusercontent.com/DutraSystem/CheckUser/master/install.sh)
+bash <(curl -sL https://github.com/DutraSystem/GLTtunnelVP/Nmain/api/CheckUser/install.sh)
 ```
  *Opcao 1*
 
@@ -33,7 +33,7 @@ python3 -m pip install --upgrade git+https://github.com/DutraSystem/GLTunnelVPN.
 
 ### Ou
 ```
-bash <(curl -sL https://raw.githubusercontent.com/DutraSystem/CheckUser/master/install.sh)
+bash <(curl -sL https://github.com/DutraSystem/GLTtunnelVP/Nmain/api/CheckUser/install.sh)
 ```
  *Opcao 2*
 
