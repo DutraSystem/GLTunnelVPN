@@ -1,4 +1,4 @@
-url='https://github.com/DutraSystem/GLTtunnelVPN/main/api/CheckUser/'
+url='https://github.com/DutraSystem/GLTtunnelVPN/main/api/CheckUser'
 
 cd ~
 
