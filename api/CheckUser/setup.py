@@ -8,7 +8,7 @@ VERSION = __version__
 DESCRIPTION = open('README.md').read()
 AUTHOR = __author__
 AUTHOR_EMAIL = __email__
-URL = 'https://github.com/DutraSystem/GLTtunnelVP/Nmain/api/CheckUser/'
+URL = 'https://github.com/DutraSystem/GLTtunnelVPN/main/api/CheckUser/'
 LICENSE = 'MIT'
 
 setup(
